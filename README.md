@@ -1,5 +1,5 @@
-# MGBPW-Net
-Code of paper "Enhanced Occluded Person Re-Identification through Cross-Image Occlusion Modeling and Adaptive Weighting"
+# SMAW
+Code of paper "Enhanced Occluded Person Re-Identification via Semantic-Guided Occlusion Modeling and Adaptive Body Part Weighting"
 
 ## model download link
 Pre-trained model download link:https://www.flyai.com/m/jx_vit_base_p16_224-80ecf9dd.pth
