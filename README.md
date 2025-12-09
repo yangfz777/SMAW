@@ -4,6 +4,9 @@ Code of paper "Enhanced Occluded Person Re-Identification via Semantic-Guided Oc
 ## model download link
 Pre-trained model download link:https://www.flyai.com/m/jx_vit_base_p16_224-80ecf9dd.pth
 
+## HP_Re-ID dataset download link
+link: https://pan.baidu.com/s/1LtL7WSI0uL7v9KdEqw6Hlw?pwd=mx6q
+
 ## Training
 
 We will evaluate the model every few epochs.
